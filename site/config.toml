@@ -3,6 +3,7 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
 theme = "goHugo"
+themeDir = "/theme"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
